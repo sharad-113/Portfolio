@@ -1,0 +1,72 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "I have a strong foundation in core front-end technologies, including HTML5, CSS, JavaScript and ReactJs. These are the building blocks of web development, and my proficiency in them is essential for creating the structure, style, and interactivity of web pages."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "My backend development expertise shines through my mastery of Node.js and Express.js, as evident in my project MountainCamp. This project illustrates my proficiency in server-side logic, API creation, and MongoDB for data management. My use of Passport.js for secure authentication further highlights my backend capabilities and strong version control."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "MERN STACK",
+      "description": " MERN Stack Developer with strong technical skills and a passion for web development. I possess expertise in key technologies of the MERN stack, including React.js, Node.js, Express.js, and MongoDB, as evidenced by my project MountainCamp and Netflix-Clone. My experience demonstrates proficiency in both front-end and back-end development, making me a valuable candidate for a full-stack role."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "I am a skilled web developer with a comprehensive understanding of the web development workflow. My expertise encompasses various stages of web development, from project planning and design to coding, testing, and deployment. I excel in both front-end and back-end development, and my proficiency in key technologies ensures the successful execution of web projects. I am a dedicated problem solver, capable of tackling complex challenges at every stage of the development process"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "MountainCamp",
+      "description": "A website build upon MongoDb , Nodejs , Express,HTML,Javascript,Bootstrap,CSS. MountainCamp is a website where users can create and review campgrounds. In order to review or create a campground, you must have an account. This project was part of my college assignment.It is inspired by website named Recreation.gov . Passport.js was used to handle authentication.Users can create, edit, and remove campgrounds.Users can review campgrounds once, and edit or remove their review",
+      "link": "View In Github",
+      "address": "https://github.com/sharad-113/MoutainCamp"
+    },
+    {
+      "id": "2",
+      "src": "../../src/assets/Optimized-NetFlix.jpg",
+      "title": "NetFlix-Clone",
+      "description": "A Netflix clone project developed using React.js, Fuse.js, Styled-Components, and Firebase is a comprehensive web application that replicates many of the features and functionalities of the popular streaming platform, Netflix.It combines front-end development, user authentication, real-time data management, and responsive design.",
+      "link": "View In Github",
+      "address": "https://github.com/sharad-113/Sharad-Netflix-Clone"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "../../src/assets/Optimized-Udemy.jpg",
+      "description": "",
+      "course_name": "Web Development BootCamp by Colt ",
+      "course_designation": "Udemy"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "../../src/assets/Coursera.png",
+      "description": "",
+      "course_name": "Introduction to HTML5 By Coursera",
+      "course_designation": "Coursera"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "../../src/assets/Coursera.png",
+      "description": "",
+      "course_name": "Introduction to CSS By Coursera",
+      "course_designation": "Coursera"
+    }
+  ]
+}
