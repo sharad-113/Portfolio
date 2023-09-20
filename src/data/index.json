@@ -36,7 +36,7 @@
     },
     {
       "id": "2",
-      "src": "../../src/assets/Optimized-NetFlix.jpg",
+      "src": "./img/Optimized-NetFlix.jpg",
       "title": "NetFlix-Clone",
       "description": "A Netflix clone project developed using React.js, Fuse.js, Styled-Components, and Firebase is a comprehensive web application that replicates many of the features and functionalities of the popular streaming platform, Netflix.It combines front-end development, user authentication, real-time data management, and responsive design.",
       "link": "View In Github",
@@ -47,7 +47,7 @@
     {
       "id": "1",
       "count": "5",
-      "src": "../../src/assets/Optimized-Udemy.jpg",
+      "src": "./img/Optimized-Udemy.jpg",
       "description": "",
       "course_name": "Web Development BootCamp by Colt ",
       "course_designation": "Udemy"
@@ -55,7 +55,7 @@
     {
       "id": "2",
       "count": "5",
-      "src": "../../src/assets/Coursera.png",
+      "src": "./img/Coursera.png",
       "description": "",
       "course_name": "Introduction to HTML5 By Coursera",
       "course_designation": "Coursera"
@@ -63,7 +63,7 @@
     {
       "id": "3",
       "count": "5",
-      "src": "../../src/assets/Coursera.png",
+      "src": "./img/Coursera.png",
       "description": "",
       "course_name": "Introduction to CSS By Coursera",
       "course_designation": "Coursera"
