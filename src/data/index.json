@@ -38,7 +38,7 @@
       "id": "2",
       "src": "./img/Optimized-NetFlix.jpg",
       "title": "NetFlix-Clone",
-      "description": "A Netflix clone project developed using React.js, Fuse.js, Styled-Components, and Firebase is a comprehensive web application that replicates many of the features and functionalities of the popular streaming platform, Netflix.It combines front-end development, user authentication, real-time data management, and responsive design.",
+      "description": "A Netflix clone project developed using React.js, Fuse.js, Styled-Components, and Firebase is a comprehensive web application that replicates many of the features and functionalities of the popular streaming platform, Netflix.It combines front-end development, user authentication, real-time data management, and responsive design.User can perform live search of contents using FuseJs.The application is authenticated and authorized using google FireBase.All the routes are also protected from illegal access",
       "link": "View In Github",
       "address": "https://github.com/sharad-113/Sharad-Netflix-Clone"
     }
